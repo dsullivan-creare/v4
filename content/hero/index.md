@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'David Sullivan'
+subtitle: 'I create technology to solve problems.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a Full Stack Software Engineer based in Hanover, NH who is passionate about solving engineering challenges and using technology to improve quality of life.
